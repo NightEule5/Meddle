@@ -1,0 +1,13 @@
+# From .ignore template.
+
+../.gradle
+**/build
+!src/**/build
+
+!gradle-wrapper.jar
+
+.idea
+out
+# Project exclude paths
+/.gradle/
+/buildSrc/.gradle/
